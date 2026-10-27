@@ -17,16 +17,6 @@ Right now, I am focused on developing my skills through hands-on projects and co
 
 ## Selected Projects
 
-### [TinyDiney](https://github.com/asundqvist/TinyDiney)
-
-A Java-based restaurant booking system for managing guest reservations and table availability.
-
-- Booking management
-- Overview of available tables and time slots
-- Structured handling of guest information
-
-**Technologies:** Java, Git, GitHub
-
 ### [WineRater](https://github.com/asundqvist/WineRater)
 
 A Java application for registering and rating wines.
@@ -34,6 +24,17 @@ A Java application for registering and rating wines.
 - Add and manage wine entries
 - Rate and review wines
 - Keep a personal overview of tasted wines
+
+**Technologies:** Java, Git, GitHub
+
+
+### [TinyDiney](https://github.com/asundqvist/TinyDiney)
+
+A Java-based restaurant booking system for managing guest reservations and table availability.
+
+- Booking management
+- Overview of available tables and time slots
+- Structured handling of guest information
 
 **Technologies:** Java, Git, GitHub
 
