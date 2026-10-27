@@ -1,16 +1,15 @@
-## Hi there 👋
+Java-student på **Edugrade** med fokus på att bygga praktiska och välstrukturerade applikationer.
 
-<!--
-**asundqvist/asundqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Teknik & verktyg
+- Java
+- Objektorienterad programmering
+- Git & GitHub
+- Backend-utveckling
+- Testning och kodkvalitet
 
-Here are some ideas to get you started:
+## 🚀 Projekt
+- **[WineRater](https://github.com/asundqvist/WineRater)** – Ett Java-projekt för att registrera och betygsätta viner.
+- **[TinyDiney](https://github.com/asundqvist/TinyDiney)** – Ett Java-baserat restaurangbokningssystem för att hantera gästbokningar och restaurangens tillgänglighet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Kontakt
+- LinkedIn: [www.linkedin.com/in/andreas-sundqvist93]
